@@ -1,0 +1,15 @@
+{
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/announcements/page": "app/announcements/page.js",
+  "/messages/page": "app/messages/page.js",
+  "/beginners/page": "app/beginners/page.js",
+  "/page": "app/page.js",
+  "/subscription/page": "app/subscription/page.js",
+  "/test/page": "app/test/page.js",
+  "/welcome/page": "app/welcome/page.js",
+  "/journal/page": "app/journal/page.js"
+}

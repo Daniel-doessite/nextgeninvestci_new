@@ -1,0 +1,15 @@
+{
+  "/api/auth/login/route": "/api/auth/login",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/admin/page": "/admin",
+  "/dashboard/page": "/dashboard",
+  "/announcements/page": "/announcements",
+  "/messages/page": "/messages",
+  "/beginners/page": "/beginners",
+  "/page": "/",
+  "/subscription/page": "/subscription",
+  "/test/page": "/test",
+  "/welcome/page": "/welcome",
+  "/journal/page": "/journal"
+}
